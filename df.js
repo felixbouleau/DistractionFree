@@ -123,18 +123,18 @@
     }
 
     .df-dark #docs-editor-container {
-     background: #000!important;
+     background: #1A1A1A!important;
 
     }
 
     .df-dark .kix-cursor-caret {
-      border-color: #fff!important;
+      border-color: #CCCCC5!important;
     }
 
     .df-dark #df-menu-button,
     .df-dark .kix-wordhtmlgenerator-word-node,
     .df-dark .kix-lineview-text-block {
-     color: #fff!important;
+     color: #CCCCC5!important;
     }
 
     .df-dark .gdocs-df-fade {
@@ -143,7 +143,7 @@
     }
 
     .df-dark tr, .df-dark td {
-     border-color: #fff!important;
+     border-color: #CCCCC5!important;
 
     }
 
